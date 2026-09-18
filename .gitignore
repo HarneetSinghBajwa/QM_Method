@@ -1,0 +1,7 @@
+*.o
+qm
+build/
+bin/
+.vscode/
+*.swp
+*~
